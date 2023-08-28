@@ -1,0 +1,159 @@
+Name	Set	ImageFile	Rarity	Color	Cost	Inkwell	Classifications	Strength	Willpower	Lore	Text	Script
+Genie, On the Job	tfc	209_en_genie-716.png	E	Emerald	6	0	Storyborn - Ally	3	4	{L}{L}	Evasive (Only characters with Evasive can challenge this character.) | DISAPPEAR When you play this character, you may return chosen character to their player's hand.	
+Mickey Mouse, Artful Rogue	tfc	210_en_mickey_mouse-716.png	E	Emerald	7	0	Hero - Floodborn	6	5	{L}{L}	Shift 5 (You may pay 5 {I} to play this on top of one of your characters named Mickey Mouse.) | MISDIRECTION Whenever you play an action, chosen opposing character can't quest during their next turn.	
+Tinker Bell, Giant Fairy	tfc	216_en_tinker_bell-716.png	E	Steel	6	1	Floodborn - Ally - Fairy	4	5	{L}{L}	Shift 4 (You may pay 4 {I} to play this on top of one of your characters named Tinker Bell.) | ROCK THE BOAT When you play this character, deal 1 damage to each opposing character. | 
+PUNY PIRATE! During your turn, whenever this character banishes another character in a challenge, you may deal 2 damage to chosen opposing character.	
+Simba, Returned King	tfc	215_en_simba-716.png	E	Steel	7	1	Hero - Storyborn - King	4	6	{L}{L}	Challenger +4 (While challenging, this character gets
++4 {C}.) | 
+POUNCE During your turn, this character gains 
+Evasive. (They can challenge characters with Evasive.)	
+Belle, Strange but Special	tfc	214_en_belle-716.png	E	Sapphire	4	1	Hero - Storyborn - Princess	2	4	{L}	READ A BOOK During your turn, you may put an additional card from your hand into your inkwell facedown. | 
+MY FAVOURITE PART! While you have 10 or more cards in your inkwell, this character gets +4 {L}.	
+Aurora, Dreaming Guardian	tfc	213_en_aurora-716.png	E	Sapphire	5	1	Hero - Floodborn - Princess	3	5	{L}{L}	Shift 3 (You may pay 3 {I} to play this on top of one of your characters named Aurora.)Protective Embrace Your other characters gain Ward. (Opponents can't choose them except to challenge.)	
+Maui, Hero to All	tfc	212_en_maui-716.png	E	Ruby	5	1	Hero - Storyborn - Deity	6	5		Rush (This character can challenge the turn they're played.) | 
+Reckless (This character can't quest and must challenge each turn if able.)	
+Aladdin, Heroic Outlaw	tfc	211_en_aladdin-716.png	E	Ruby	7	1	Hero - Floodborn	5	7	{L}{L}	Shift 5 (You may pay 5 {I} to play this on top of one of your characters named Aladdin.) | 
+DARING EXPLOIT During your turn, whenever this character banishes another character in a challenge, you gain 2 lore and each opponent loses 2 lore.	
+Mickey Mouse, Wayward Sorcerer	tfc	208_en_mickey_mouse-716.png	E	Amethyst	4	1	Dreamborn - Sorcerer	3	4	{L}{L}	ANIMATE BROOM You pay 1 {I} less to play Broom characters. | CEASELESS WORKER Whenever one of your Broom characters is banished in a challenge, you may return that card to your hand.	
+Elsa, Spirit of Winter	tfc	207_en_elsa-716.png	E	Amethyst	8	0	Hero - Floodborn - Queen - Sorcerer	4	6	{L}{L}{L}	Shift 6 (You may pay 6 {I} to play this on top of one of your characters named Elsa.) | 
+DEEP FREEZE When you play this character, exert up to 2 chosen characters. They can't ready at the start of their next turn.	
+Stitch, Carefree Surfer	tfc	206_en_stitch-716.png	E	Amber	7	1	Hero - Dreamborn - Alien	4	8	{L}{L}	OHANA When you play this character, if you have 2 or more other characters in play, you may draw 2 cards.	
+Hades, King of Olympus	tfc	205_en_hades-716.png	E	Amber	8	0	Floodborn - Villain - King - Deity	6	7	{L}	Shift 6 (You may pay 6 {I} to play this on top of one of your characters named Hades.) | Sinister plot This character gets +1 {L} for every other Villain character you have in play.	
+Te Ka, Heartless	tfc	192_en_te_ka-716.png	L	Steel	6	1	Dreamborn - Villain - Deity	5	5	{L}{L}	SEEK THE HEART During your turn, whenever this character banishes another character in a challenge, you gain 2 lore.	
+Starkey, Hook's Henchman	tfc	191_en_starkey-716.png	U	Steel	5	1	Storyborn - Pirate - Ally	5	4	{L}	AYE AYE, CAPTAIN While you have a Captain character in play, this character gets +1 {L}.	
+Plasma Blaster	tfc	204_en_plasma_blaster-716.png	R	Steel	3	0	Item				QUICK SHOT {T}, 2 {I} - Deal 1 damage to chosen character.	
+Lilo, Galactic Hero	tfc	184_en_lilo-716.png	U	Steel	3	1	Hero - Dreamborn	4	2	{L}{L}		
+Aladdin, Cornered Swordsman	tfc	171_en_aladdin-716.png	C	Steel	2	1	Hero - Storyborn	2	1	{L}{L}		
+Donald Duck, Musketeer	tfc	177_en_donald_duck-716.png	U	Steel	4	1	Hero - Dreamborn - Musketeer	2	5	{L}	Bodyguard (This character may enter play exerted. An opposing character who challenges one of your characters must choose one with Bodyguard if able.) | 
+STAY ALERT! During your turn, your Musketeer characters gain Evasive. (They can challenge characters with Evasive.)	
+Fishbone Quill	tfc	168_en_fishbone_quill-716.png	R	Sapphire	3	1	Item				GO AHEAD AND SIGN {T} - Put any card from your hand into your inkwell facedown.	
+Eye of the Fates	tfc	167_en_eye_of_the_fates-716.png	U	Sapphire	4	1	Item				SEE THE FUTURE {T} - Chosen character gets +1 {L} this turn.	
+Tamatoa, So Shiny!	tfc	159_en_tamatoa-716.png	SR	Sapphire	8	1	Storyborn - Villain	5	8	{L}	WHAT HAVE WE HERE? When you play this character and whenever he quests, you may return an item card from your discard to your hand. | 
+GLAM This character gets +1 {L} for each item you have in play.	
+Philoctetes, Trainer of Heroes	tfc	156_en_philoctetes-716.png	C	Sapphire	2	1	Storyborn - Mentor	3	1	{L}	Support (Whenever this character quests, you may add their {C} to another chosen character‘s {C} this turn.)	
+Hades, Infernal Schemer	tfc	147_en_hades-716.png	L	Sapphire	7	0	Dreamborn - Villain - Deity	3	6	{L}{L}	IS THERE A DOWNSIDE TO THIS? When you play this character, you may put chosen opposing character into their player's inkwell facedown.	
+Chief Tui, Respected Leader	tfc	143_en_chief_tui-716.png	U	Sapphire	7	1	Storyborn - King - Mentor	3	6	{L}{L}{L}	Support (Whenever this character quests, you may add their {C} to another chosen character‘s {C} this turn.)	
+Te Ka, The Burning One	tfc	126_en_te_ka-716.png	SR	Ruby	6	0	Storyborn - Villain - Deity	8	6		Reckless (This character can't quest and must challenge each turn if able.)	
+Peter Pan, Fearless Fighter	tfc	119_en_peter_pan-716.png	C	Ruby	3	0	Hero - Storyborn	3	2	{L}	Rush (This character can challenge the turn they're played.)	
+Moana, Chosen by the Ocean	tfc	117_en_moana-716.png	U	Ruby	5	1	Hero - Storyborn - Princess	2	6	{L}{L}	THIS IS NOT WHO YOU ARE When you play this character, you may banish chosen character named Te Ka.	
+Maui, Hero to All	tfc	114_en_maui-716.png	R	Ruby	5	1	Hero - Storyborn - Deity	6	5		Rush (This character can challenge the turn they're played.) | 
+Reckless (This character can't quest and must challenge each turn if able.)	
+Dr. Facilier's Cards	tfc	101_en_dr_faciliers_cards-716.png	U	Emerald	2	0	Item				THE CARDS WILL TELL {T} - You pay 1 {I} less for the next action you play this turn.	
+Tinker Bell, Most Helpful	tfc	93_en_tinker_bell-716.png	C	Emerald	4	1	Storyborn - Ally - Fairy	2	3	{L}{L}	Evasive (Only characters with Evasive can challenge this character.) | 
+PIXIE DUST When you play this character, chosen character gains Evasive this turn.	
+Tamatoa, Drab Little Crab	tfc	92_en_tamatoa-716.png	U	Emerald	2	1	Dreamborn	1	4	{L}		
+Genie, Powers Unleashed	tfc	76_en_genie-716.png	R	Emerald	8	0	Hero - Floodborn	3	5	{L}{L}{L}	Shift 6 (You may pay 6 {I} to play this on top of one of your characters named Genie.) | 
+Evasive (Only characters with Evasive can challenge this character.) | 
+PHENOMENAL COSMIC POWER Whenever this character quests, you may play an action with cost 5 or less for free.	
+Freeze	tfc	63_en_freeze-716.png	C	Amethyst	2	0	Action				Exert chosen opposing character.	
+Ursula, Power Hungry	tfc	59_en_ursula-716.png	L	Amethyst	7	0	Sorcerer - Storyborn - Villain	2	8	{L}{L}{L}	IT'S TOO EASY! When you play this character, each opponent loses 1 lore. You may draw a card for each 1 lore lost this way.	
+The Queen, Wicked and Vain	tfc	56_en_the_queen-716.png	SR	Amethyst	5	1	Queen - Storyborn - Villain	4	5	{L}	I SUMMON THEE {T} - Draw a card.	
+Dr. Facilier, Remarkable Gentleman	tfc	39_en_dr_facilier-716.png	R	Amethyst	3	1	Sorcerer - Storyborn - Villain	2	4	{L}	DREAMS MADE REAL Whenever you play a song, you may look at the top 2 cards of your deck. Put one on the top of your deck and the other on the bottom.	
+You Have Forgotten Me	tfc	31_en_you_have_forgotten_me-716.png	U	Amber	4	1	Action				Each opponent chooses and discards 2 cards.	
+Pumbaa, Friendly Warthog	tfc	17_en_pumbaa-716.png	C	Amber	4	1	Storyborn - Ally	3	5	{L}		
+Mr. Smee, Loyal First Mate	tfc	15_en_mr_smee-716.png	C	Amber	3	1	Dreamborn - Pirate - Ally	2	5	{L}		
+Ransack	tfc	199_en_ransack-716.png	U	Steel	2	1	Action				Draw 2 cards, then choose and discard 2 cards.	
+Simba, Rightful Heir	tfc	190_en_simba-716.png	U	Steel	5	0	Hero - Storyborn - Prince	3	5	{L}{L}	I KNOW WHAT I HAVE TO DO During your turn, whenever this character banishes another character in a challenge, you gain 1 lore.	
+Magic Golden Flower	tfc	169_en_magic_golden_flower-716.png	C	Sapphire	1	1	Item				HEALING POLLEN Banish this item - Remove up to 3 damage from chosen character.	
+Mufasa, King of the Pride Lands	tfc	155_en_mufasa-716.png	C	Sapphire	6	1	Storyborn - King - Mentor	4	6	{L}{L}{L}		
+Gramma Tala, Storyteller	tfc	146_en_gramma_tala-716.png	U	Sapphire	2	1	Storyborn - Mentor	1	1	{L}	I WILL BE WITH YOU When this character is banished, you may put this card into your inkwell facedown and exerted.	
+Shield of Virtue	tfc	135_en_shield_of_virtue-716.png	U	Ruby	1	1	Item				FIREPROOF {T}, 3 {I} - Ready chosen character. They can't quest for the rest of this turn.	
+Stitch, Abomination	tfc	125_en_stitch-716.png	R	Ruby	6	1	Hero - Alien - Storyborn	4	6	{L}{L}{L}		
+Captain, Colonel's Lieutenant	tfc	106_en_captain-716.png	U	Ruby	5	1	Storyborn - Captain - Ally	6	5	{L}		
+Steal from the Rich	tfc	97_en_steam_from_the_rich-716.png	R	Emerald	5	0	Action				Whenever one of your characters quests this turn, each opponent loses 1 lore.	
+Mad Hatter, Gracious Host	tfc	86_en_mad_hatter-716.png	U	Emerald	5	1	Storyborn	2	4	{L}{L}{L}	TEA PARTY Whenever this character is challenged, you may draw a card.	
+Cinderella, Gentle and Kind	tfc	3_en_cinderella-716.png	U	Amber	4	1	Hero - Storyborn - Princess	2	5	{L}{L}	Singer 5 (This character counts as cost 4 to sing songs.) | 
+A WONDERFUL DREAM {T}- Remove up to 3 damage from chosen Princess character.	
+Dr. Facilier, Agent Provocateur	tfc	37_en_dr_facilier-716.png	R	Amethyst	7	0	Floodborn - Sorcerer - Villain	4	5	{L}{L}{L}	Shift 5 (You may pay 5 {I} to play this on top of one of your characters named Dr. Facilier.) | 
+INTO THE SHADOWS Whenever one of your other characters is banished in a challenge, you may return that card to your hand.	
+Jasmine, Queen of Agrabah	tfc	149_en_jasmine-716.png	R	Sapphire	5	1	Hero - Floodborn - Queen - Princess	2	5	{L}{L}	Shift 3 (You may pay 3 {I} to play this on top of one of your characters named Jasmine.) | 
+CARETAKER When you play this character and whenever she quests, you may remove up to 2 damage from each of your characters.	
+Work Together	tfc	165_en_work_together-716.png	C	Sapphire	1	1	Action				Chosen character gains Support this turn. (Whenever they quest, you may add their {C} to another chosen character's {C} this turn.)	
+Mother Gothel, Selfish Manipulator	tfc	90_en_mother_gothel-716.png	SR	Emerald	6	1	Storyborn - Villain	3	6	{L}{L}	SKIP THE DRAMA, STAY WITH MAMA While this character is exerted, opposing character can't quest.	
+Belle, Strange but Special	tfc	142_en_belle-716.png	L	Sapphire	4	1	Hero - Storyborn - Princess	2	4	{L}	READ A BOOK During your turn, you may put an additional card from your hand into your inkwell facedown. | 
+MY FAVOURITE PART! While you have 10 or more cards in your inkwell, this character gets +4 {L}.	
+Sword of Truth	tfc	136_en_sword_of_truth-716.png	R	Ruby	4	0	Item				FINAL ENCHANTMENT Banish this item - Banish chosen Villain character.	
+He's Got a Sword!	tfc	132_en_hes_got_a_sword-716.png	C	Ruby	1	1	Action				Chosen character gets +2 {C} this turn.	
+Tangle	tfc	133_en_tangle-716.png	C	Ruby	2	1	Action				Each opponent loses 1 lore.	
+Cut to the Chase	tfc	129_en_cut_to_the_chase-716.png	U	Ruby	2	1	Action				Chosen character gains Rush this turn. (They can challenge the turn they're played.)	
+Captain Hook, Ruthless Pirate	tfc	107_en_captain_hook-716.png	R	Ruby	7	0	Storyborn - Villain - Pirate - Captain	5	5	{L}{L}	Rush (This character can challenge the turn they're played.) | 
+YOU COWARD! While this character is exerted, opposing characters with Evasive gain Reckless. (They can't quest and must challenge if able.)	
+Lefou, Instigator	tfc	112_en_lefou-716.png	R	Ruby	2	1	Dreamborn - Ally	2	2	{L}	FAN THE FLAMES When you play this character, ready chosen character. They can't quest for the rest of this turn.	
+Sudden Chill	tfc	98_en_sudden_chill-716.png	C	Emerald	2	1	Action - Song				(A character with cost 2 or more can {T} to sing this
+song for free.) | Each opponent chooses and discards a card.	
+Ursula's Cauldron	tfc	67_en_ursulas_cauldron-716.png	U	Amethyst	2	0	Item				PEER INTO THE DEPTHS {T} - Look at the top 2 cards of your deck. Put one on the top of your deck and the other on the bottom.	
+Poisoned Apple	tfc	134_en_poisoned_apple-716.png	R	Ruby	3	0	Item				TAKE A BITE . . .  1 {I}, Banish this item - Exert chosen character. If a Princess character is chosen, banish her instead.	
+Jafar, Keeper of Secrets	tfc	44_en_jafar-716.png	R	Amethyst	4	1	Dreamborn - Sorcerer - Villain		5	{L}{L}	HIDDEN WONDERS This character gets +1 {C} for each card in your hand.	
+Tinker Bell, Peter Pan's Ally	tfc	58_en_tinker_bell-716.png	C	Amethyst	5	0	Storyborn - Ally - Fairy	3	3	{L}{L}	Evasive (Only characters with Evasive can challenge this character.) | 
+LOYAL AND DEVOTED Your characters named Peter Pan gain Challenger +1. (They get +1 {C} while challenging.)	
+Elsa, Ice Surfer	tfc	109_en_elsa-716.png	C	Ruby	4	1	Hero - Dreamborn - Queen - Sorcerer	3	4	{L}	THAT'S NO BLIZZARD Whenever you play a character named Anna, ready this character. This character can't quest for the rest of this turn.	
+Elsa, Spirit of Winter	tfc	42_en_elsa-716.png	L	Amethyst	8	0	Hero - Floodborn - Queen - Sorcerer	4	6	{L}{L}{L}	Shift 6 (You may pay 6 {I} to play this on top of one of your characters named Elsa.) | 
+DEEP FREEZE When you play this character, exert up to 2 chosen characters. They can't ready at the start of their next turn.	
+Horace, No-Good Scoundrel	tfc	79_en_horace-716.png	C	Emerald	3	1	Storyborn - Ally	4	3	{L}		
+Jasper, Common Crook	tfc	81_en_jasper-716.png	U	Emerald	3	1	Storyborn - Ally	2	4	{L}	PUPPYNAPPING Whenever this character quests, chosen opposing character can't quest during their next turn.	
+Captain Hook, Thinking a Happy Thought	tfc	175_en_captain_hook-716.png	R	Steel	5	0	Floodborn - Villain - Pirate - Captain	2	5	{L}	Shift 3 (You may pay 3 {I} to play this on top of one of your characters named Captain Hook.) | 
+Challenger +3 (While challenging, this character gets +3 {C}.) | 
+STOLEN DUST Characters with cost 3 or less can't challenge this character.	
+John Silver, Alien Pirate	tfc	82_en_john_silver-716.png	L	Emerald	6	1	Alien - Storyborn - Villain - Pirate - Captain	5	5	{L}{L}	PICK YOUR FIGHTS When you play this character and whenever he quests, chosen opposing character gains Reckless during their next turn. (They can't quest and must challenge if able.)	
+Scar, Shameless Firebrand	tfc	123_en_scar-716.png	R	Ruby	8	0	Floodborn - Villain - King	6	6	{L}	Shift 6 (You may pay 6 {I} to play this on top of one of your characters named Scar.) | ROUSING SPEECH When you play this character, ready your characters with cost 3 or less. They can't quest for the rest of this turn.	
+Abu, Mischievous Monkey	tfc	103_en_abu-716.png	C	Ruby	3	1	Storyborn - Ally	3	2	{L}{L}		
+Genie, The Ever Impressive	tfc	77_en_genie-716.png	C	Emerald	2	1	Dreamborn - Ally	2	3	{L}		
+Kuzco, Temperamental Emperor	tfc	84_en_kuzco-716.png	R	Emerald	5	0	Storyborn - King	2	4	{L}{L}{L}	Ward (Opponents can't choose this character except to challenge.) | 
+NO TOUCHY! When this character is challenged and banished, you may banish the challenging character.	
+Elsa, Queen Regent	tfc	40_en_elsa-716.png	C	Amethyst	4	1	Hero - Queen - Sorcerer - Storyborn	4	4	{L}		
+Megara, Pulling the Strings	tfc	87_en_megara-716.png	C	Emerald	2	1	Dreamborn - Ally	2	1	{L}	WONDER BOY When you play this character, chosen character gets +2 {C} this turn.	
+Maximus, Palace Horse	tfc	10_en_maximus-716.png	SR	Amber	5	1	Storyborn - Ally	4	5	{L}	Bodyguard (This character may enter play exerted. An opposing character who challenges one of your characters must choose one with Bodyguard if able.) | 
+Support (Whenever this character quests, you may add their {C} to another chosen character‘s {C} this turn.)	
+Flynn Rider, Charming Rogue	tfc	74_en_flynn_rider-716.png	U	Emerald	2	1	Hero - Storyborn - Prince	1	2	{L}{L}	HERE COMES THE SMOLDER Whenever this character is challenged, the challenging player chooses and discards a card.	
+Rapunzel, Gifted with Healing	tfc	18_en_rapunzel-716.png	L	Amber	4	1	Hero - Storyborn - Princess	1	5	{L}{L}	GLEAM AND GLOW When you play this character, remove up to 3 damage from one of your characters. Draw a card for each 1 damage removed this way.	
+Hans, Thirteenth in Line	tfc	180_en_hans-716.png	SR	Steel	4	1	Storyborn - Villain - Prince	3	3	{L}{L}	STAGE LITTLE ACCIDENT Whenever this character quests, you may deal 1 damage to chosen character.	
+Stolen Scimitar	tfc	102_en_stolen_scimitar-716.png	C	Emerald	2	1	Item				SLASH {T} - Chosen character get +1 {C} this turn. If a character named Aladdin is chosen, he gets +2 {C} instead.	
+Do It Again!	tfc	3_en_do_it_again-716.png	R	Emerald	3	0	Action				Return an action card from your discard to your hand.	
+Mickey Mouse, Artful Rogue	tfc	88_en_mickey_mouse-716.png	SR	Emerald	7	0	Hero - Floodborn	6	5	{L}{L}	Shift 5 (You may pay 5 {I} to play this on top of one of your characters named Mickey Mouse.) | MISDIRECTION Whenever you play an action, chosen opposing character can't quest during their next turn.	
+Hakuna Matata	tfc	27_en_hakuna_matata-716.png	C	Amber	4	1	Action - Song				(A character with cost 4 or more can {T} to sing this
+song for free.) | Remove up to 3 damage from each of your characters.	
+Reflection	tfc	65_en_reflection-716.png	U	Amethyst	1	1	Action - Song				(A character with cost 2 or more can {T} to sing this
+song for free.) | Look at the top 3 cards of your deck. Put them back on the top of your deck in any order.	
+Mother Knows Best	tfc	95_en_mother_knows_best-716.png	U	Emerald	3	0	Action - Song				(A character with cost 3 or more can {T} to sing this
+song for free.) | Return chosen character to their player's hand.	
+A Whole New World	tfc	195_en_a_whole_new_world-716.png	SR	Steel	5	0	Action - Song				(A character with cost 5 or more can {T} to sing this
+song for free.) | Each player discards their hand and draws 7 cards.	
+Be Prepared	tfc	128_en_be_prepared-716.png	R	Ruby	7	0	Action - Song				(A character with cost 7 or more can {T} to sing this
+song for free.) | Banish all characters.	
+Vicious Betrayal	tfc	100_en_vicious_betrayal-716.png	C	Emerald	1	1	Action				Chosen character gets +2 {C} this turn. If a Villain character is chosen, they get +3 {C} instead.	
+Marshmallow, Persistent Guardian	tfc	50_en_marshmallow-716.png	SR	Amethyst	6	0	Storyborn - Ally	5	5	{L}	DURABLE When this character is banished in a challenge, you may return this card to your hand.	
+Stampede	tfc	96_en_stampede-716.png	C	Emerald	1	0	Action				Deal 2 damage to chosen damaged character.	
+Hans, Scheming Prince	tfc	78_en_hans-716.png	R	Emerald	4	1	Storyborn - Villain - Prince	3	3	{L}{L}{L}		
+Scepter Of Arendelle	tfc	170_en_scepter_of_arendelle-716.png	U	Sapphire	1	1	Item				COMMAND {T} - Chosen character gains Support this turn. (Whenever they quest, you may add their {C} to another chosen character's {C} this turn.)	
+Minnie Mouse, Always Classy	tfc	116_en_minnie_mouse-716.png	C	Ruby	1	1	Hero - Storyborn	1	3	{L}		
+Duke Of Weselton, Opportunistic Official	tfc	73_en_duke_of_weselton-716.png	C	Emerald	1	1	Storyborn - Villain	2	2	{L}		
+Musketeer Tabard	tfc	203_en_musketeer_tabard-716.png	R	Steel	4	0	Item				ALL FOR ONE AND ONE FOR ALL Whenever one of your characters with Bodyguard is banished, you may draw a card.	
+Maleficent, Uninvited	tfc	151_en_maleficent-716.png	R	Sapphire	5	1	Dreamborn - Sorcerer - Villain	3	6	{L}{L}{L}		
+Aladdin, Street Rat	tfc	105_en_aladdin-716.png	C	Ruby	3	1	Hero - Storyborn	2	2	{L}	IMPROVISE When you play this character each opponent loses 1 lore.	
+Prince Phillip, Dragonslayer	tfc	16_en_prince_phillip-716.png	U	Amber	4	0	Hero - Storyborn - Prince	3	3	{L}{L}	HEROISM When this character challenges and is banished, you may banish the challenged character.	
+Break	tfc	196_en_break-716.png	C	Steel	2	1	Action				Banish chosen item.	
+If It's Not Baroque	tfc	162_en_if_its_not_baroque-716.png	R	Sapphire	3	0	Action				Return an item card from your discard to your hand.	
+Fan The Flames	tfc	131_en_fan_the_flames-716.png	U	Ruby	1	1	Action				Ready chosen character. They can't quest for the rest of this turn.	
+Ursula's Shell Necklace	tfc	34_en_ursulas_shell_necklace-716.png	R	Amber	3	0	Item				NOW, SING! Whenever you play a song, you may pay 1 {I} to draw a card.	
+Sebastian, Court Composer	tfc	19_en_sebastian-716.png	C	Amber	2	1	Storyborn - Ally	2	2	{L}	Singer 4 (This character counts as cost 4 to sing songs.)	
+Gaston, Arrogant Hunter	tfc	110_en_gaston-716.png	C	Ruby	2	1	Storyborn - Villain	4	2		Reckless (This character can't quest and must challenge each turn if able.)	
+Ariel, Spectacular Singer	tfc	2_en_ariel-716.png	SR	Amber	3	1	Hero - Storyborn - Princess	2	3	{L}	Singer 5 (This character counts as cost 5 to sing songs.) | MUSICAL DEBUT When you play this character, look at the top 4 cards of your deck. You may reveal a song card and put it into your hand. Put the rest on the bottom of your deck in any order.	
+Anna, Heir to Arendelle	tfc	35_en_anna-716.png	U	Amethyst	4	1	Hero - Queen - Storyborn	2	4	{L}{L}	LOVING HEART When you play this character, if you have a character named Elsa in play, choose an opposing character. The chosen character doesn't ready at the start of their next turn.	
+Grab Your Sword	tfc	198_en_grab_your_sword-716.png	R	Steel	5	0	Action - Song				(A character with cost 5 or more can {T} to sing this song for free.) | Deal 2 damage to each opposing character.	
+Triton, The Sea King	tfc	160_en_triton-716.png	U	Sapphire	7	1	Storyborn - King	5	9	{L}{L}		
+Jetsam, Ursula's Spy	tfc	46_en_jetsam-716.png	C	Amethyst	4	1	Storyborn - Ally	3	3	{L}	Evasive (Only characters with Evasive can challenge this character.) | SINISTER SLITHER Your characters named Flotsam gain Evasive.	
+Flotsam, Ursula's Spy	tfc	43_en_flotsam-716.png	R	Amethyst	5	0	Storyborn - Ally	3	4	{L}{L}	Rush (This character can challenge the turn they're played.) | DEXTEROUS LUNGE Your characters named Jetsam gain Rush.	
+Lilo, Making a Wish	tfc	9_en_lilo-716.png	R	Amber	1	0	Hero - Storyborn	1	1	{L}{L}		
+Pongo, Ol' Rascal	tfc	120_en_pongo-716.png	C	Ruby	4	1	Hero - Storyborn	2	3	{L}{L}	Evasive (Only characters with Evasive can challenge this character.)	
+Kronk, Right-Hand Man	tfc	183_en_kronk-716.png	U	Steel	6	1	Storyborn - Ally	6	6	{L}{L}		
+Simba, Protective Cub	tfc	20_en_simba-716.png	C	Amber	2	1	Hero - Storyborn - Prince	2	3	{L}	Bodyguard (This character may enter play exerted. An opposing character who challenges one of your characters must choose one with Bodyguard if able.)	
+Tinker Bell, Giant Fairy	tfc	193_en_tinker_bell-716.png	SR	Steel	6	1	Floodborn - Ally - Fairy	4	5	{L}{L}	Shift 4 (You may pay 4 {I} to play this on top of one of your characters named Tinker Bell.) | ROCK THE BOAT When you play this character, deal 1 damage to each opposing character. | 
+PUNY PIRATE! During your turn, whenever this character banishes another character in a challenge, you may deal 2 damage to chosen opposing character.	
+Befuddle	tfc	62_en_befuddle-716.png	U	Amethyst	1	1	Action				Return a character or item with cost 2 or less to their player's hand.	
+Merlin, Self-Appointed Mentor	tfc	153_en_merlin-716.png	C	Sapphire	4	1	Dreamborn - Sorcerer - Mentor	3	4	{L}	Support (Whenever this character quests, you may add their {C} to another chosen character‘s {C} this turn.)	
+Donald Duck, Strutting His Stuff	tfc	144_en_donald_duck-716.png	C	Sapphire	5	1	Hero - Dreamborn - Inventor	4	3	{L}{L}	Ward (Opponents can't choose this character except to challenge.)	
+Zeus, God of Lightning	tfc	61_en_zeus-716.png	R	Amethyst	4	0	Storyborn - Deity		4	{L}{L}	Rush (This character can challenge the turn they're played.) | Challenger +4 (When challenging, this character get +4 {C}.)	
+Simba, Future King	tfc	188_en_simba-716.png	C	Steel	1	1	Hero - Storyborn - Prince	1	2	{L}	GUESS WHAT? When you play this character, you may draw a card, then choose and discard a card.	
+Peter Pan, Never Landing	tfc	91_en_peter_pan-716.png	C	Emerald	3	1	Hero - Dreamborn	3	2	{L}	Evasive (Only characters with Evasive can challenge this character.)	
+Ariel, Whoseit Collector	tfc	137_en_ariel-716.png	R	Sapphire	4	0	Hero - Storyborn - Princess	3	3	{L}	LOOK AT THIS STUFF Whenever you play an item, you may ready this character.	
+Maui, Demigod	tfc	185_en_maui-716.png	R	Steel	8	1	Hero - Storyborn - Deity	8	8	{L}{L}{L}		
