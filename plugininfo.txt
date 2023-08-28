@@ -1,0 +1,44 @@
+<plugin>
+<playerstat><label>Lore</label></playerstat>
+
+<gamezone>
+	<label>Hand</label>
+	<visibletoowner>yes</visibletoowner>
+	<visibletoothers>no</visibletoothers>
+</gamezone>
+
+<gamezone>
+	<label>Deck</label>
+	<visibletoowner>no</visibletoowner>
+	<visibletoothers>no</visibletoothers>
+</gamezone>
+
+<deckzone>
+	<label>Deck</label>
+	<zonetoloadto>Deck</zonetoloadto>
+</deckzone>
+
+<gamezone>
+	<label>Discard</label>
+	<visibletoowner>yes</visibletoowner>
+	<visibletoothers>yes</visibletoothers>
+</gamezone>
+
+<generalfunction><label>Untap all</label><kind>ALLYOURCARDSMAKERIGHT0DEGREES</kind><includeasbutton>yes</includeasbutton></generalfunction>
+
+<generalfunction><label>Draw card</label><kind>DRAWCARD</kind><includeasbutton>yes</includeasbutton></generalfunction>
+
+<cardfunction><label>Tap</label><kind>MAKERIGHT90DEGREES</kind><includeasbutton>yes</includeasbutton></cardfunction>
+<cardfunction><label>Untap</label><kind>MAKERIGHT0DEGREES</kind><includeasbutton>yes</includeasbutton></cardfunction>
+<cardfunction><label>Flip over</label><kind>TURNOVER</kind><includeasbutton>yes</includeasbutton></cardfunction>
+
+<definition><kind>ISYOURFACEDOWNVISIBLE</kind></definition>
+<definition><kind>ISALLOWINGMULTIPLECARDBACKS</kind></definition>
+
+<cardfunction><label>Red +1</label><kind>ADDCOUNTERRED</kind><includeasbutton>yes</includeasbutton><PositionX>0.5</PositionX><PositionY>-0.06</PositionY></cardfunction>
+<cardfunction><label>Red -1</label><kind>REMOVECOUNTERRED</kind><includeasbutton>yes</includeasbutton></cardfunction>
+<cardfunction><label>Blue +1</label><kind>ADDCOUNTERBLUE</kind><includeasbutton>yes</includeasbutton><PositionX>0.7</PositionX><PositionY>-0.06</PositionY></cardfunction>
+<cardfunction><label>Blue -1</label><kind>REMOVECOUNTERBLUE</kind><includeasbutton>yes</includeasbutton></cardfunction>
+
+<cardfunction><label>Clear</label><kind>CLEARCARD</kind><includeasbutton>yes</includeasbutton></cardfunction>
+</plugin>

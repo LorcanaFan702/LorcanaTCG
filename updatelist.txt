@@ -1,0 +1,2 @@
+lorcana 08-27-23
+plugins/lorcana/plugininfo.txt
