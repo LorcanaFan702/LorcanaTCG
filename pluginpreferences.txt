@@ -84,7 +84,6 @@
 <quickzoom>4.000000</quickzoom>
 <panx>-0.030000</panx>
 <pany>-0.030000</pany>
-<tilt>26.000000</tilt>
 <prevtilt>26.000000</prevtilt>
 <isdownloadallmissing>1</isdownloadallmissing>
 
