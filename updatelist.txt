@@ -2,6 +2,9 @@ lorcana	08-27-23
 plugins/lorcana/plugininfo.txt	https://raw.githubusercontent.com/LorcanaFan702/LorcanaTCG/main/plugininfo.txt	176686
 plugins/lorcana/sets/carddata.txt	https://raw.githubusercontent.com/LorcanaFan702/LorcanaTCG/main/sets/carddata.txt	3556149
 plugins/lorcana/cardback.png	https://raw.githubusercontent.com/LorcanaFan702/LorcanaTCG/main/cardback.png	-98157
+plugins/lorcana/decks/Amber_and_Amethyst.dek	https://raw.githubusercontent.com/LorcanaFan702/LorcanaTCG/main/decks/Amber_and_Amethyst.dek	342463
+plugins/lorcana/decks/Emerald_and_Ruby.dek	https://raw.githubusercontent.com/LorcanaFan702/LorcanaTCG/main/decks/Emerald_and_Ruby.dek	341933
+plugins/lorcana/decks/Steel_and_Sapphire.dek	https://raw.githubusercontent.com/LorcanaFan702/LorcanaTCG/main/decks/Steel_and_Sapphire.dek	332130
 
 CardGeneralURLs:
 https://raw.githubusercontent.com/LorcanaFan702/LorcanaTCG/main/sets/setimages/
