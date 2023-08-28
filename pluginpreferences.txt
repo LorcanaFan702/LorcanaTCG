@@ -1,0 +1,91 @@
+<pluginpreferences>
+
+<counterstyleimagesizetextoverimage>15</counterstyleimagesizetextoverimage>
+<counterstyleimagesizeimagesonly>15</counterstyleimagesizeimagesonly>
+<recentskins>default</recentskins>
+<canned>(PoP?) Pass or Play?                          (passorplay.wav)</canned>
+<canned>Attack!                                       (attack.wav)</canned>
+<canned>Pass                                          (pass.wav)</canned>
+<canned>Proceed                                       (proceed.wav)</canned>
+<canned>Thinking...                                   (thinking.wav)</canned>
+<canned>Hold on...                                    (holdon.wav)</canned>
+<canned>(EoT) At end of turn...                       (atendofturn.wav)</canned>
+<canned>In response...                                (inresponse.wav)</canned>
+<canned>Your turn...                                  (yourturn.wav)</canned>
+<canned>Done.                                         (done.wav)</canned>
+<canned>Yay!                                          (yay.wav)</canned>
+<canned>/clear</canned>
+<canned>shucks                                        (shucks.wav)</canned>
+<canned>Good Game                                     (goodgame.wav)</canned>
+<canned>!d6!/rolld6</canned>
+<canned>!d8!/rolld8</canned>
+<canned>!d10!/rolld10</canned>
+<canned>!d12!/rolld12</canned>
+<canned>!Add Persona Pack to Removed!/ap <k>9) Persona</k><zone>Removed</zone></canned>
+<canned>!Add 1 of Each Pack!/ap <k>2) Primary Edition</k><erase>yes</erase><zone>Hand</zone>;/ap <k>3) New Empires</k><zone>Hand</zone>;/ap <k>4) Powers of the Mind</k><zone>Hand</zone>;/ap <k>5) Time Gates</k><zone>Hand</zone>;/ap <k>U) Universe Edition</k><zone>Hand</zone>;/ap <k>6) Advanced Technologies</k><zone>Hand</zone>;/ap <k>7) Piracy</k><zone>Hand</zone>;/ap <k>9) Persona</k><zone>Hand</zone>;/ap <k>10) Galactic Invaders Booster</k><zone>Hand</zone>;/copyzonetocardpool</canned>
+<fontkind0pos0>Lato-Reg.ttf</fontkind0pos0>
+<fontkind0pos1>times.ttf</fontkind0pos1>
+<fontkind1pos0>Lato-Reg.ttf</fontkind1pos0>
+<fontkind1pos1>times.ttf</fontkind1pos1>
+<fontkind2pos0>Lato-Reg.ttf</fontkind2pos0>
+<fontkind2pos1>times.ttf</fontkind2pos1>
+<fontkind3pos0>Lato-Reg.ttf</fontkind3pos0>
+<fontkind3pos1>times.ttf</fontkind3pos1>
+<fontsize0>12</fontsize0>
+<fontsize1>11</fontsize1>
+<fontsize2>11</fontsize2>
+<fontsize3>20</fontsize3>
+<bindingmain0>CTRL+h</bindingmain0>
+<bindingmain1>CTRL+j</bindingmain1>
+<bindingmain2>SHIFT+ALT+s</bindingmain2>
+<bindingmain3>SHIFT+ALT+q</bindingmain3>
+<bindingmain4>CTRL+n</bindingmain4>
+<bindingmain5>CTRL+s</bindingmain5>
+<bindingmain6>CTRL+l</bindingmain6>
+<bindingmain7>CTRL+r</bindingmain7>
+<bindingmain9>CTRL+f</bindingmain9>
+<bindingmain11>CTRL+ALT+c</bindingmain11>
+<bindingmain13>CTRL+p</bindingmain13>
+<bindingmain14>SHIFT+ALT+p</bindingmain14>
+<bindingmain15>CTRL+SHIFT+s</bindingmain15>
+<bindingmain16>SHIFT+ALT+h</bindingmain16>
+<bindingmain18>SHIFT+META+t</bindingmain18>
+<bindingmain19>META+q</bindingmain19>
+<bindinggeneral0>CTRL+u</bindinggeneral0>
+<bindinggeneral1>CTRL+d</bindinggeneral1>
+<bindinggeneral2>CTRL+UP</bindinggeneral2>
+<bindinggeneral3>CTRL+DOWN</bindinggeneral3>
+<bindingcard0>BACKSPACE</bindingcard0>
+<bindingcard1>ALT+q</bindingcard1>
+<bindingcard2>CTRL+MINUS</bindingcard2>
+<bindingcard3>CTRL+EQUALS</bindingcard3>
+<bindingcard5>ALT+EQUALS</bindingcard5>
+<bindingcard6>CTRL+SHIFT+MINUS</bindingcard6>
+<bindingcard7>CTRL+SHIFT+EQUALS</bindingcard7>
+<bindingcanned0>CTRL+1</bindingcanned0>
+<bindingcanned1>CTRL+2</bindingcanned1>
+<bindingcanned2>CTRL+3</bindingcanned2>
+<bindingcanned3>CTRL+4</bindingcanned3>
+<bindingcanned4>CTRL+5</bindingcanned4>
+<bindingcanned5>CTRL+6</bindingcanned5>
+<bindingcanned6>CTRL+7</bindingcanned6>
+<bindingcanned7>CTRL+8</bindingcanned7>
+<bindingcanned8>CTRL+9</bindingcanned8>
+<bindingcanned9>CTRL+0</bindingcanned9>
+<bindingcanned11>CTRL+SHIFT+1</bindingcanned11>
+<bindingcanned12>CTRL+SHIFT+3</bindingcanned12>
+<bindingcanned13>CTRL+SHIFT+5</bindingcanned13>
+<libraryignoredoubles>1</libraryignoredoubles>
+<recentformat>-1</recentformat>
+<filterkeystroke>1</filterkeystroke>
+<deckeditorloadtozoneiscollapse>0</deckeditorloadtozoneiscollapse>
+<scalefactor>1.500000</scalefactor>
+<zoomfactor>1.000000</zoomfactor>
+<quickzoom>4.000000</quickzoom>
+<panx>-0.030000</panx>
+<pany>-0.030000</pany>
+<tilt>26.000000</tilt>
+<prevtilt>26.000000</prevtilt>
+<isdownloadallmissing>1</isdownloadallmissing>
+
+</pluginpreferences>
