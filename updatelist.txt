@@ -1,5 +1,6 @@
 lorcana	08-27-23
 plugins/lorcana/plugininfo.txt	https://raw.githubusercontent.com/LorcanaFan702/LorcanaTCG/main/plugininfo.txt	176686
 plugins/lorcana/sets/carddata.txt	https://raw.githubusercontent.com/LorcanaFan702/LorcanaTCG/main/sets/carddata.txt	2136242
+
 CardGeneralURLs:
 https://raw.githubusercontent.com/LorcanaFan702/LorcanaTCG/main/sets/setimages/
