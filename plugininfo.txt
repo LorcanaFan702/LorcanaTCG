@@ -1,5 +1,12 @@
 <plugin>
+<pluginname>lorcana</pluginname>
 <playerstat><label>Lore</label></playerstat>
+
+<deckzone>
+	<label>Deck</label>
+	<shuffle>yes</shuffle>
+	<gamezonetoloadto>Deck</gamezonetoloadto>
+</deckzone>
 
 <gamezone>
 	<label>Hand</label>
@@ -13,11 +20,6 @@
 	<visibletoothers>no</visibletoothers>
 </gamezone>
 
-<deckzone>
-	<label>Deck</label>
-	<zonetoloadto>Deck</zonetoloadto>
-</deckzone>
-
 <gamezone>
 	<label>Discard</label>
 	<visibletoowner>yes</visibletoowner>
@@ -27,6 +29,7 @@
 <generalfunction><label>Untap all</label><kind>ALLYOURCARDSMAKERIGHT0DEGREES</kind><includeasbutton>yes</includeasbutton></generalfunction>
 
 <generalfunction><label>Draw card</label><kind>DRAWCARD</kind><includeasbutton>yes</includeasbutton></generalfunction>
+<generalfunction><label>Flip coin</label><kind>FLIPCOIN</kind><includeasbutton>no</includeasbutton></generalfunction>
 
 <cardfunction><label>Tap</label><kind>MAKERIGHT90DEGREES</kind><includeasbutton>yes</includeasbutton></cardfunction>
 <cardfunction><label>Untap</label><kind>MAKERIGHT0DEGREES</kind><includeasbutton>yes</includeasbutton></cardfunction>
@@ -37,8 +40,6 @@
 
 <cardfunction><label>Red +1</label><kind>ADDCOUNTERRED</kind><includeasbutton>yes</includeasbutton><PositionX>0.5</PositionX><PositionY>-0.06</PositionY></cardfunction>
 <cardfunction><label>Red -1</label><kind>REMOVECOUNTERRED</kind><includeasbutton>yes</includeasbutton></cardfunction>
-<cardfunction><label>Blue +1</label><kind>ADDCOUNTERBLUE</kind><includeasbutton>yes</includeasbutton><PositionX>0.7</PositionX><PositionY>-0.06</PositionY></cardfunction>
-<cardfunction><label>Blue -1</label><kind>REMOVECOUNTERBLUE</kind><includeasbutton>yes</includeasbutton></cardfunction>
 
 <cardfunction><label>Clear</label><kind>CLEARCARD</kind><includeasbutton>yes</includeasbutton></cardfunction>
 </plugin>

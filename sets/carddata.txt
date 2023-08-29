@@ -136,10 +136,10 @@ Genie, On the Job	tfc	75_en_genie-716.jpg	SR	Emerald	6	0	Storyborn - Ally	3	4	{L
 Iago, Loud-Mouthed Parrot	tfc	80_en_iago-716.jpg	R	Emerald	3	1	Storyborn - Ally	1	4	{L}	YOU GOT A PROBLEM {T} - Chosen character gains Reckless during their next turn. (They can't quest and must challenge if able.)	
 Sergeant Tibbs, Courageous Cat	tfc	124_en_sergeant_tibbs-716.jpg	C	Ruby	1	1	Storyborn	2	2	{L}		
 Cerberus, Three-Headed Dog	tfc	176_en_cerberus-716.jpg	C	Steel	5	1	Storyborn	5	6	{L}		
-Timon, Grub Rustler	tfc	24_en_timon-716.jpg	C	Amber	1	1	Storyborn - Ally	1	2	{L}	TASTES LIKE CHICKEN When you play this character, you may remove up to 1 damage from chosen character.	
-Mickey Mouse, Musketeer	tfc	186_en_mickey_mouse-716.jpg	R	Steel	6	1	Hero - Dreamborn - Musketeer	2	7	{L}{L}	Bodyguard (This character may enter play exerted. An opposing character who challenges one of your characters must choose one with Bodyguardif able.) | ALL FOR ONE Your other Musketeer charactersget +1 {C}.	
-Be Our Guest	tfc	25_en_be_our_guest-716.jpg	U	Amber	2	1	Action - Song				(A character with cost 2 or more can {T} to sing thissong for free.) | Look at the top 4 cards of your deck. You may reveal acharacter card and put it into your hand. Put the reston the bottom of your deck in any order.	<s><l>Look at top 4 cards</l><f>/vp1pt4</f></s>
-The Beast is Mine!	tfc	99_en_the_beast_is_mine-716.jpg	U	Emerald	3	1	Action				Chosen character gains Reckless during their nextturn. (They can‘t quest and must challenge if able.)	
+Timon, Grub Rustler	tfc	24_en_timon-716.jpg	C	Amber	1	1	Storyborn - Ally	1	2	{L}	TASTES LIKE CHICKEN When you play this  | character, you may remove up to 1 damage from  | chosen character.	
+Mickey Mouse, Musketeer	tfc	186_en_mickey_mouse-716.jpg	R	Steel	6	1	Hero - Dreamborn - Musketeer	2	7	{L}{L}	Bodyguard (This character may enter play exerted.  | An opposing character who challenges one of  | your characters must choose one with Bodyguard | if able.) | ALL FOR ONE Your other Musketeer characters | get +1 {C}.	
+Be Our Guest	tfc	25_en_be_our_guest-716.jpg	U	Amber	2	1	Action - Song				(A character with cost 2 or more can {T} to sing this | song for free.) | Look at the top 4 cards of your deck. You may reveal a | character card and put it into your hand. Put the rest | on the bottom of your deck in any order.	<s><l>Look at top 4 cards</l><f>/vp1pt4</f></s>
+The Beast is Mine!	tfc	99_en_the_beast_is_mine-716.jpg	U	Emerald	3	1	Action				Chosen character gains Reckless during their next | turn. (They can‘t quest and must challenge if able.)	
 Friends On The Other Side	tfc	64_en_friends_on_the_other_side-716.jpg	C	Amethyst	3	1	Action - Song				(A character with cost 3 or more can {T} to sing this song for free.) |  | Draw 2 cards.	<s><l>Draw 2</l><f>/draw 2</f></s>
 Maleficent, Sorceress	tfc	49_en_maleficent-716.jpg	C	Amethyst	3	1	Sorcerer - Storyborn - Villain	2	2	{L}	CAST MY SPELL When you play this character, you may draw a card.	<s><l>Draw</l><f>/draw 1</f></s>
 Jafar, Wicked Sorcerer	tfc	45_en_jafar-716.jpg	C	Amethyst	4	1	Dreamborn - Sorcerer - Villain	2	5	{L}	Challenger +3 (When challenging, this character get +3 {C}.)	
@@ -167,15 +167,15 @@ Aurora, Regal Princess	tfc	140_en_aurora-716.jpg	U	Sapphire	2	1	Hero - Storyborn
 Develop Your Brain	tfc	161_en_develop_your_brain-716.jpg	C	Sapphire	1	1	Action				Look at the top 2 cards of your deck. Put one into your hand and the other on the bottom of the deck.	<s><l>Look at top 2 cards</l><f>/vp1pt2</f></s>
 Mickey Mouse, True Friend	tfc	12_en_mickey_mouse-716.jpg	U	Amber	3	1	Hero - Storyborn	3	3	{L}{L}		
 Heihei, Boat Snack	tfc	7_en_heihei-716.jpg	C	Amber	1	1	Storyborn - Ally	1	2	{L}	Support (Whenever this character quests, you may add their {C} to another chosen character‘s {C} this turn.)	
-Coconut Basket	tfc	166_en_coconut_basket-716.jpg	U	Sapphire	2	1	Item				CONSIDER THE COCONUT Whenever you play a character,you may remove up to 2 damage from chosen character.	
-Part of Your World	tfc	30_en_part_of_your_world-716.jpg	R	Amber	3	0	Action - Song				(A character with cost 3 or more can {T} to sing this songfor free.) |  Return a character card from your discard to your hand.	
+Coconut Basket	tfc	166_en_coconut_basket-716.jpg	U	Sapphire	2	1	Item				CONSIDER THE COCONUT Whenever you play a character, | you may remove up to 2 damage from chosen character.	
+Part of Your World	tfc	30_en_part_of_your_world-716.jpg	R	Amber	3	0	Action - Song				(A character with cost 3 or more can {T} to sing this song | for free.) |  Return a character card from your discard to your hand.	
 Hades, Lord of the Underworld	tfc	6_en_hades-716.jpg	R	Amber	4	0	Storyborn - Villain - Deity	3	2	{L}	WELL OF SOULS When you play this character, return a character card from your discard to your hand.	
 Stitch, New Dog	tfc	22_en_stitch-716.jpg	C	Amber	1	1	Hero - Alien - Storyborn	2	2	{L}		
 Beast's Mirror	tfc	201_en_beasts_mirror-716.jpg	C	Steel	2	1	Item				SHOW ME {T}, 3 {I} - If you have no cards in your hand, draw a card.	<s><l>Draw</l><f>/draw 1</f></s>
 Magic Broom, Bucket Brigade	tfc	47_en_magic_broom-716.jpg	C	Amethyst	2	1	Dreamborn - Broom	2	2	{L}	SWEEP When you play this character, you may shuffle a card from any discard into its player‘s deck.	
 Fire the Cannons!	tfc	197_en_fire_the_cannons-716.jpg	C	Steel	1	0	Action				Deal 2 damage to chosen character.	
 Flounder, Voice of Reason	tfc	145_en_flounder-716.jpg	C	Sapphire	1	1	Storyborn - Ally	2	2	{L}		
-Aladdin, Heroic Outlaw	tfc	104_en_aladdin-716.jpg	SR	Ruby	7	1	Hero - Floodborn	5	5	{L}{L}	Shift 5 (You may pay 5 {I} to play this on top of one of your characters named Aladdin.) | DARING EXPLOIT During your turn, whenever thischaracter banishes another character in a challenge, you gain 2 lore and each opponent loses 2 lore.	
+Aladdin, Heroic Outlaw	tfc	104_en_aladdin-716.jpg	SR	Ruby	7	1	Hero - Floodborn	5	5	{L}{L}	Shift 5 (You may pay 5 {I} to play this on top of one of your characters named Aladdin.) | DARING EXPLOIT During your turn, whenever this | character banishes another character in a challenge, you gain 2 lore and each opponent loses 2 lore.	
 Frying Pan	tfc	202_en_frying_pan-716.jpg	U	Steel	2	1	Item				CLANG! Banish this item - Chosen character can't challenge during their next turn.	
 Kristoff, Official Ice Master	tfc	182_en_kristoff-716.jpg	C	Steel	3	1	Storyborn - Ally	3	3	{L}{L}		
 One Jump Ahead	tfc	164_en_one_jump_ahead-716.jpg	U	Sapphire	2	0	Action - Song				(A character with cost 2 or more can {T} to sing this song for free.) | Put the top card of your deck into your inkwell facedown and exerted.	
@@ -211,7 +211,7 @@ Moana, Of Motunui	tfc	14_en_moana-716.jpg	R	Amber	5	1	Hero - Storyborn - Princes
 Simba, Returned King	tfc	189_en_simba-716.jpg	R	Steel	7	1	Hero - Storyborn - King	4	6	{L}{L}	Challenger +4 (While challenging, this character gets | +4 {C}.) | POUNCE During your turn, this character gains  | Evasive. (They can challenge characters with Evasive.)	
 Mickey Mouse, Detective	tfc	154_en_mickey_mouse-716.jpg	C	Sapphire	3	0	Hero - Dreamborn - Detective	1	3	{L}	GET A CLUE When you play this character, you may put the top card of your deck into your inkwell facedown and exerted.	
 Aurora, Dreaming Guardian	tfc	139_en_aurora-716.jpg	SR	Sapphire	5	1	Hero - Floodborn - Princess	3	5	{L}{L}	Shift 3 (You may pay 3 {I} to play this on top of one of your characters named Aurora.)Protective Embrace Your other characters gain Ward. (Opponents can't choose them except to challenge.)	
-Pascal, Rapunzel's Companion	tfc	53_en_pascal-716.jpg	U	Amethyst	1	1	Storyborn - Ally	1	1	{L}	CAMOUFLAGE While you have another characterin play, this character gains Evasive. (Only characterswith Evasive can challenge them.)	
+Pascal, Rapunzel's Companion	tfc	53_en_pascal-716.jpg	U	Amethyst	1	1	Storyborn - Ally	1	1	{L}	CAMOUFLAGE While you have another character | in play, this character gains Evasive. (Only characters | with Evasive can challenge them.)	
 Jumba Jookiba, Renegade Scientist	tfc	83_en_jumba_jookiba-716.jpg	U	Emerald	5	1	Dreamborn - Alien - Inventor	4	5	{L}{L}		
 Olaf, Friendly Snowman	tfc	52_en_olaf-716.jpg	U	Amethyst	1	1	Storyborn - Ally	1	3	{L}		
 Dragon Fire	tfc	130_en_dragon_fire-716.jpg	U	Ruby	5	0	Action				Banish chosen character.	
