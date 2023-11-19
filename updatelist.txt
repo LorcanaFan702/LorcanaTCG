@@ -7,7 +7,8 @@ plugins/lorcana/decks/Emerald_and_Ruby.dek	https://raw.githubusercontent.com/Lor
 plugins/lorcana/decks/Steel_and_Sapphire.dek	https://raw.githubusercontent.com/LorcanaFan702/LorcanaTCG/main/decks/Steel_and_Sapphire.dek	332130
 plugins/lorcana/decks/Amber_and_Sapphire.dek	https://raw.githubusercontent.com/LorcanaFan702/LorcanaTCG/main/decks/Amber_and_Sapphire.dek	347998
 plugins/lorcana/decks/Amethyst_and_Steel.dek	https://raw.githubusercontent.com/LorcanaFan702/LorcanaTCG/main/decks/Amethyst_and_Steel.dek	344033
+
 CardGeneralURLs:
-https://raw.githubusercontent.com/LorcanaFan702/LorcanaTCG/main/sets/setimages/
-https://raw.githubusercontent.com/LorcanaFan702/LorcanaTCG/main/sets/setimages/tfc/
-https://raw.githubusercontent.com/LorcanaFan702/LorcanaTCG/main/sets/setimages/rotf/
+plugins/lorcana/sets/setimages/ https://raw.githubusercontent.com/LorcanaFan702/LorcanaTCG/main/sets/setimages/
+plugins/lorcana/sets/setimages/tfc/ https://raw.githubusercontent.com/LorcanaFan702/LorcanaTCG/main/sets/setimages/tfc/
+plugins/lorcana/sets/setimages/rotf/ https://raw.githubusercontent.com/LorcanaFan702/LorcanaTCG/main/sets/setimages/rotf/
