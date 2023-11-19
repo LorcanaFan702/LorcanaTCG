@@ -9,3 +9,5 @@ plugins/lorcana/decks/Amber_and_Sapphire.dek	https://raw.githubusercontent.com/L
 plugins/lorcana/decks/Amethyst_and_Steel.dek	https://raw.githubusercontent.com/LorcanaFan702/LorcanaTCG/main/decks/Amethyst_and_Steel.dek	344033
 CardGeneralURLs:
 https://raw.githubusercontent.com/LorcanaFan702/LorcanaTCG/main/sets/setimages/
+https://raw.githubusercontent.com/LorcanaFan702/LorcanaTCG/main/sets/setimages/tfc/
+https://raw.githubusercontent.com/LorcanaFan702/LorcanaTCG/main/sets/setimages/rotf/
