@@ -1,4 +1,4 @@
-lorcana	11-18-23
+lorcana	01-13-24
 plugins/lorcana/plugininfo.txt	https://raw.githubusercontent.com/LorcanaFan702/LorcanaTCG/main/plugininfo.txt	167508
 plugins/lorcana/sets/carddata.txt	https://raw.githubusercontent.com/LorcanaFan702/LorcanaTCG/main/sets/carddata.txt	7165184
 plugins/lorcana/sets/setimages/general/cardback.png	https://raw.githubusercontent.com/LorcanaFan702/LorcanaTCG/main/cardback.png	-98157
