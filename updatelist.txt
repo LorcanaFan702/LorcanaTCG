@@ -1,5 +1,6 @@
 lorcana	01-13-24
 plugins/lorcana/plugininfo.txt	https://raw.githubusercontent.com/LorcanaFan702/LorcanaTCG/main/plugininfo.txt	167508
+plugins/lorcana/version.txt	https://raw.githubusercontent.com/LorcanaFan702/LorcanaTCG/main/version.txt	29144
 plugins/lorcana/sets/carddata.txt	https://raw.githubusercontent.com/LorcanaFan702/LorcanaTCG/main/sets/carddata.txt	7253501
 plugins/lorcana/cardback.png	https://raw.githubusercontent.com/LorcanaFan702/LorcanaTCG/main/cardback.png	-98157
 plugins/lorcana/decks/Amber_and_Amethyst.dek	https://raw.githubusercontent.com/LorcanaFan702/LorcanaTCG/main/decks/Amber_and_Amethyst.dek	342463
